@@ -3,11 +3,11 @@ hemos decidido que queremos trabajar en Git para llevar un control de versiones 
 versiones y todos los avances relevantes del informe del trabajo final de la asignatura. Además, en una carpeta del repositorio, iremos subiendo todas las capas que vayamos generando,
 de manera que en todo momento todos los integrantes del grupo tengamos acceso a ellas.
 En esta primera reunión también hemos decidido qué variables queremos utilizar para comenzar a trabajar, que serán en primer lugar, algunas variables ambientales:
-  - Densidad de pinares, tanto generada por NDVI y teledetección como por el proceso de imputación.
-  - Índice de Shannon calculado en RStudio.
-  - Distancia a otras formaciones vegetales.
-  - Humedad potencial del suelo.
-  - Pendiente.
+  - Densidad de pinares, tanto generada por NDVI y teledetección como por el proceso de imputación: CARLOS.
+  - Índice de Shannon calculado en RStudio: SABELA.
+  - Distancia a otras formaciones vegetales: JESÚS.
+  - Humedad potencial del suelo: ARMANDO.
+  - Pendiente: CARLOS.
 Y algunas variables socioeconómicas:
-  - Distancia a vías de acceso.
-  - Presencia o ausencia de la estación de esquí, ya que hemos visto que la zona de Sierra Nevada que nos ha sido asignada coincide con la estación de esquí.
+  - Distancia a vías de acceso: SABELA.
+  - Presencia o ausencia de la estación de esquí, ya que hemos visto que la zona de Sierra Nevada que nos ha sido asignada coincide con la estación de esquí: SABELA
